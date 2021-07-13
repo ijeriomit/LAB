@@ -1,4 +1,4 @@
-# Epoch #
+# LAB #
 A 3D video Game Built in the Unity game editor
 A simple simulation of a chemistry lab
 Player’s interact with tools and equipment in a chemistry lab. 
